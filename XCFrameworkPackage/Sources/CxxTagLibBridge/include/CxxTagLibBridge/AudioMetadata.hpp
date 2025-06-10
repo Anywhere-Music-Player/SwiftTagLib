@@ -133,6 +133,7 @@ public:
         APEPicture convert_to_APEPicture();
 
         // MARK: - AttachedPicture: builders from specific format
+        static std::optional<Picture> create_from_byte_vector(const TagLib::ByteVector *bytes);
         static std::optional<Picture> create_from_FLACPicture(const TagLib::FLAC::Picture *flacPicture);
         static std::optional<Picture> create_from_MP4Picture(const TagLib::MP4::CoverArt *coverArt);
         static std::optional<Picture> create_from_ID3v2Picture(const TagLib::ID3v2::AttachedPictureFrame *frame);

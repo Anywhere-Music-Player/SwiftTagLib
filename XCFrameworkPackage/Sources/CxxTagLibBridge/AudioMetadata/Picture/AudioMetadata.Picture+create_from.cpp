@@ -1,42 +1,50 @@
 
 #import <CxxTagLibBridge/AudioMetadata.hpp>
 
+std::optional<AudioMetadata::Picture> AudioMetadata::Picture::create_from_byte_vector(const TagLib::ByteVector *bytes) {
+    if (!bytes) {
+        return std::nullopt;
+    }
+    auto start = bytes->begin();
+    auto end = bytes->end();
+    auto size = bytes->size();
+    /// `ByteVector` must not be:
+    /// **empty**,        **overflown**,   **inversed**,  **corruputed**
+    if (bytes->isEmpty() || start > end || size <= 0 || start + size != end) {
+        return std::nullopt;
+    }
+    return AudioMetadata::Picture {
+        .bytes = std::vector<char>(start, end),
+        .size = size
+    };
+};
+
 /// builds `AudioMetadata::Picture` from `TagLib::FLAC::Picture`.
 std::optional<AudioMetadata::Picture> AudioMetadata::Picture::create_from_FLACPicture(const TagLib::FLAC::Picture *flacPicture) {
     if (!flacPicture) {
         return std::nullopt;
     }
-    auto pointer = flacPicture->data().data();
-    auto size = flacPicture->data().size();
-    if (!pointer || size <= 0) {
-        return std::nullopt;
+    auto bytes = flacPicture->data();
+    auto maybePicture = AudioMetadata::Picture::create_from_byte_vector(&bytes);
+    if (maybePicture.has_value()) {
+        auto picture = maybePicture.value();
+        if (!flacPicture->description().isEmpty()) {
+            picture.description = flacPicture->description().toCString(true);
+        }
+        picture.kind = static_cast<Kind>(flacPicture->type());
+        return picture;
+    } else {
+        return maybePicture;
     }
-    auto picture = AudioMetadata::Picture {
-        std::vector<char>(pointer, pointer + size),
-        size
-    };
-    if (!flacPicture->description().isEmpty()) {
-        picture.description = flacPicture->description().toCString(true);
-    }
-    picture.kind = static_cast<AudioMetadata::Picture::Kind>(flacPicture->type());
-    return picture;
-}
+};
 
 /// builds `AudioMetadata::Picture` from `TagLib::MP4::CoverArt`.
 std::optional<AudioMetadata::Picture> AudioMetadata::Picture::create_from_MP4Picture(const TagLib::MP4::CoverArt *coverArt) {
     if (!coverArt) {
         return std::nullopt;
     }
-    auto pointer = coverArt->data().data();
-    auto size = coverArt->data().size();
-    if (!pointer || size <= 0) {
-        return std::nullopt;
-    }
-    auto picture = AudioMetadata::Picture {
-        .bytes = std::vector<char>(pointer, pointer + size),
-        .size = size
-    };
-    return picture;
+    auto bytes = coverArt->data();
+    return create_from_byte_vector(&bytes);
 }
 
 /// builds `AudioMetadata::Picture` from `TagLib::ID3v2::AttachedPictureFrame *`.
@@ -44,19 +52,17 @@ std::optional<AudioMetadata::Picture> AudioMetadata::Picture::create_from_ID3v2P
     if (!frame) {
         return std::nullopt;
     }
-    auto pointer = frame->picture().data();
-    auto size = frame->picture().size();
-    if (!pointer || size <= 0) {
-        return std::nullopt;
+    auto bytes = frame->picture();
+    auto maybePicture = AudioMetadata::Picture::create_from_byte_vector(&bytes);
+    if (maybePicture.has_value()) {
+        auto picture = maybePicture.value();
+        if (!frame->description().isEmpty()) {
+            picture.description = frame->description().toCString(true);
+        }
+        return picture;
+    } else {
+        return maybePicture;
     }
-    auto picture = AudioMetadata::Picture {
-        .bytes = std::vector<char>(pointer, pointer + size),
-        .size = size
-    };
-    if (!frame->description().isEmpty()) {
-        picture.description = frame->description().toCString(true);
-    }
-    return picture;
 }
 
 /// maybe builds `AudioMetadata::Picture` from `const TagLib::APE::Item item` and `const char* key` return wrapped in `std::optional`.

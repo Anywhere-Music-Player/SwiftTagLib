@@ -19774,847 +19774,847 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 1347,
       "length": 4,
       "value": "0x00"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 1441,
       "length": 4,
       "value": "0x01"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 1527,
       "length": 4,
       "value": "0x02"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 1601,
       "length": 4,
       "value": "0x03"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 1673,
       "length": 4,
       "value": "0x04"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 1750,
       "length": 4,
       "value": "0x05"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 1816,
       "length": 4,
       "value": "0x06"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 1897,
       "length": 4,
       "value": "0x07"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 1971,
       "length": 4,
       "value": "0x08"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 2038,
       "length": 4,
       "value": "0x09"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 2108,
       "length": 4,
       "value": "0x0A"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 2173,
       "length": 4,
       "value": "0x0B"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 2253,
       "length": 4,
       "value": "0x0C"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 2347,
       "length": 4,
       "value": "0x0D"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 2435,
       "length": 4,
       "value": "0x0E"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 2527,
       "length": 4,
       "value": "0x0F"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 2629,
       "length": 4,
       "value": "0x10"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 2708,
       "length": 4,
       "value": "0x11"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 2787,
       "length": 4,
       "value": "0x12"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 2858,
       "length": 4,
       "value": "0x13"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AttachedPicture.swift",
       "kind": "IntegerLiteral",
       "offset": 2943,
       "length": 4,
       "value": "0x14"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFile.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFile.swift",
       "kind": "Array",
       "offset": 517,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/FLAC.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/FLAC.swift",
       "kind": "Array",
       "offset": 101,
       "length": 8,
       "value": "[\"flac\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/FLAC.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/FLAC.swift",
       "kind": "Array",
       "offset": 159,
       "length": 14,
       "value": "[\"audio\/flac\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/FLAC.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/FLAC.swift",
       "kind": "BooleanLiteral",
       "offset": 316,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/FLAC.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/FLAC.swift",
       "kind": "IntegerLiteral",
       "offset": 347,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/FLAC.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/FLAC.swift",
       "kind": "StringLiteral",
       "offset": 374,
       "length": 6,
       "value": "\"fLaC\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MP4.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MP4.swift",
       "kind": "Array",
       "offset": 100,
       "length": 21,
       "value": "[\"m4a\", \"m4r\", \"mp4\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MP4.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MP4.swift",
       "kind": "Array",
       "offset": 171,
       "length": 16,
       "value": "[\"audio\/mpeg-4\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MP4.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MP4.swift",
       "kind": "BooleanLiteral",
       "offset": 329,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MP4.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MP4.swift",
       "kind": "IntegerLiteral",
       "offset": 361,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MP4.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MP4.swift",
       "kind": "StringLiteral",
       "offset": 388,
       "length": 6,
       "value": "\"ftyp\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MonkeyAudio.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MonkeyAudio.swift",
       "kind": "Array",
       "offset": 108,
       "length": 7,
       "value": "[\"ape\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MonkeyAudio.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MonkeyAudio.swift",
       "kind": "Array",
       "offset": 165,
       "length": 48,
       "value": "[\"audio\/monkeys-audio\", \"audio\/x-monkeys-audio\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MonkeyAudio.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MonkeyAudio.swift",
       "kind": "BooleanLiteral",
       "offset": 363,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MonkeyAudio.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MonkeyAudio.swift",
       "kind": "IntegerLiteral",
       "offset": 394,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MonkeyAudio.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/MonkeyAudio.swift",
       "kind": "StringLiteral",
       "offset": 421,
       "length": 6,
       "value": "\"MAC \""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/TrueAudio.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/TrueAudio.swift",
       "kind": "Array",
       "offset": 106,
       "length": 7,
       "value": "[\"tta\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/TrueAudio.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/TrueAudio.swift",
       "kind": "Array",
       "offset": 163,
       "length": 15,
       "value": "[\"audio\/x-tta\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/TrueAudio.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/TrueAudio.swift",
       "kind": "BooleanLiteral",
       "offset": 326,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/TrueAudio.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/TrueAudio.swift",
       "kind": "IntegerLiteral",
       "offset": 357,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/TrueAudio.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/TrueAudio.swift",
       "kind": "StringLiteral",
       "offset": 384,
       "length": 6,
       "value": "\"TTA1\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/WavPack.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/WavPack.swift",
       "kind": "Array",
       "offset": 104,
       "length": 6,
       "value": "[\"wv\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/WavPack.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/WavPack.swift",
       "kind": "Array",
       "offset": 160,
       "length": 36,
       "value": "[\"audio\/wavpack\", \"audio\/x-wavpack\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/WavPack.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/WavPack.swift",
       "kind": "BooleanLiteral",
       "offset": 342,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/WavPack.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/WavPack.swift",
       "kind": "IntegerLiteral",
       "offset": 374,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/WavPack.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/BasicHeader\/WavPack.swift",
       "kind": "StringLiteral",
       "offset": 401,
       "length": 6,
       "value": "\"wvpk\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
       "kind": "Array",
       "offset": 105,
       "length": 15,
       "value": "[\"aiff\", \"aif\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
       "kind": "Array",
       "offset": 170,
       "length": 14,
       "value": "[\"audio\/aiff\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
       "kind": "BooleanLiteral",
       "offset": 331,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
       "kind": "IntegerLiteral",
       "offset": 363,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
       "kind": "IntegerLiteral",
       "offset": 392,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
       "kind": "StringLiteral",
       "offset": 426,
       "length": 6,
       "value": "\"FORM\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/AIFF.swift",
       "kind": "Array",
       "offset": 473,
       "length": 16,
       "value": "[\"AIFF\", \"AIFC\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
       "kind": "Array",
       "offset": 107,
       "length": 7,
       "value": "[\"dff\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
       "kind": "Array",
       "offset": 164,
       "length": 13,
       "value": "[\"audio\/dff\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
       "kind": "BooleanLiteral",
       "offset": 326,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
       "kind": "IntegerLiteral",
       "offset": 358,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
       "kind": "IntegerLiteral",
       "offset": 387,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
       "kind": "StringLiteral",
       "offset": 422,
       "length": 6,
       "value": "\"FRM8\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSDIFF.swift",
       "kind": "StringLiteral",
       "offset": 463,
       "length": 6,
       "value": "\"DSD \""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
       "kind": "Array",
       "offset": 104,
       "length": 7,
       "value": "[\"dsf\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
       "kind": "Array",
       "offset": 161,
       "length": 13,
       "value": "[\"audio\/dsf\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
       "kind": "BooleanLiteral",
       "offset": 320,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
       "kind": "IntegerLiteral",
       "offset": 352,
       "length": 2,
       "value": "32"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
       "kind": "IntegerLiteral",
       "offset": 381,
       "length": 2,
       "value": "28"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
       "kind": "StringLiteral",
       "offset": 416,
       "length": 5,
       "value": "\"DSD\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/DSF.swift",
       "kind": "StringLiteral",
       "offset": 456,
       "length": 6,
       "value": "\"fmt \""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
       "kind": "Array",
       "offset": 108,
       "length": 7,
       "value": "[\"oga\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
       "kind": "Array",
       "offset": 165,
       "length": 25,
       "value": "[\"audio\/ogg; codec=flac\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
       "kind": "BooleanLiteral",
       "offset": 340,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
       "kind": "IntegerLiteral",
       "offset": 372,
       "length": 2,
       "value": "33"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
       "kind": "IntegerLiteral",
       "offset": 401,
       "length": 2,
       "value": "28"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
       "kind": "StringLiteral",
       "offset": 436,
       "length": 8,
       "value": "\"OggS\u0000\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggFLAC.swift",
       "kind": "StringLiteral",
       "offset": 479,
       "length": 12,
       "value": "\"FLAC\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
       "kind": "Array",
       "offset": 108,
       "length": 8,
       "value": "[\"opus\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
       "kind": "Array",
       "offset": 166,
       "length": 25,
       "value": "[\"audio\/ogg; codec=opus\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
       "kind": "BooleanLiteral",
       "offset": 341,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
       "kind": "IntegerLiteral",
       "offset": 373,
       "length": 2,
       "value": "36"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
       "kind": "IntegerLiteral",
       "offset": 402,
       "length": 2,
       "value": "28"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
       "kind": "StringLiteral",
       "offset": 437,
       "length": 8,
       "value": "\"OggS\u0000\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggOpus.swift",
       "kind": "StringLiteral",
       "offset": 480,
       "length": 10,
       "value": "\"OpusHead\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
       "kind": "Array",
       "offset": 109,
       "length": 7,
       "value": "[\"spx\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
       "kind": "Array",
       "offset": 166,
       "length": 26,
       "value": "[\"audio\/ogg; codec=speex\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
       "kind": "BooleanLiteral",
       "offset": 343,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
       "kind": "IntegerLiteral",
       "offset": 375,
       "length": 2,
       "value": "36"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
       "kind": "IntegerLiteral",
       "offset": 404,
       "length": 2,
       "value": "28"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
       "kind": "StringLiteral",
       "offset": 439,
       "length": 8,
       "value": "\"OggS\u0000\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggSpeex.swift",
       "kind": "StringLiteral",
       "offset": 482,
       "length": 10,
       "value": "\"Speex   \""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
       "kind": "Array",
       "offset": 110,
       "length": 14,
       "value": "[\"ogg\", \"oga\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
       "kind": "Array",
       "offset": 174,
       "length": 27,
       "value": "[\"audio\/ogg; codec=vorbis\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
       "kind": "BooleanLiteral",
       "offset": 353,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
       "kind": "IntegerLiteral",
       "offset": 385,
       "length": 2,
       "value": "35"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
       "kind": "IntegerLiteral",
       "offset": 414,
       "length": 2,
       "value": "28"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
       "kind": "StringLiteral",
       "offset": 449,
       "length": 8,
       "value": "\"OggS\u0000\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/OggVorbis.swift",
       "kind": "StringLiteral",
       "offset": 492,
       "length": 14,
       "value": "\"\u0001vorbis\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
       "kind": "Array",
       "offset": 105,
       "length": 15,
       "value": "[\"wav\", \"wave\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
       "kind": "Array",
       "offset": 170,
       "length": 14,
       "value": "[\"audio\/wave\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
       "kind": "BooleanLiteral",
       "offset": 331,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
       "kind": "IntegerLiteral",
       "offset": 363,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
       "kind": "IntegerLiteral",
       "offset": 392,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
       "kind": "StringLiteral",
       "offset": 426,
       "length": 6,
       "value": "\"RIFF\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CompositeHeader\/WAVE.swift",
       "kind": "StringLiteral",
       "offset": 467,
       "length": 6,
       "value": "\"WAVE\""
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/MP3.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/MP3.swift",
       "kind": "Array",
       "offset": 101,
       "length": 7,
       "value": "[\"mp3\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/MP3.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/MP3.swift",
       "kind": "Array",
       "offset": 158,
       "length": 14,
       "value": "[\"audio\/mpeg\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/MP3.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/MP3.swift",
       "kind": "BooleanLiteral",
       "offset": 315,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/MP3.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/MP3.swift",
       "kind": "IntegerLiteral",
       "offset": 346,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/Musepack.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/Musepack.swift",
       "kind": "Array",
       "offset": 106,
       "length": 7,
       "value": "[\"mpc\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/Musepack.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/Musepack.swift",
       "kind": "Array",
       "offset": 163,
       "length": 38,
       "value": "[\"audio\/musepack\", \"audio\/x-musepack\"]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/Musepack.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/Musepack.swift",
       "kind": "BooleanLiteral",
       "offset": 349,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/Musepack.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/AudioFormats\/CustomHeader\/Musepack.swift",
       "kind": "IntegerLiteral",
       "offset": 380,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Metadata.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Metadata.swift",
       "kind": "Array",
       "offset": 2121,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Metadata.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Metadata.swift",
       "kind": "IntegerLiteral",
       "offset": 2189,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Metadata.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Metadata.swift",
       "kind": "Array",
       "offset": 2556,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/OverlayStrategy.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/OverlayStrategy.swift",
       "kind": "IntegerLiteral",
       "offset": 417,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/OverlayStrategy.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/OverlayStrategy.swift",
       "kind": "IntegerLiteral",
       "offset": 541,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/OverlayStrategy.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/OverlayStrategy.swift",
       "kind": "IntegerLiteral",
       "offset": 616,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Properties.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Properties.swift",
       "kind": "IntegerLiteral",
       "offset": 223,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Properties.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Properties.swift",
       "kind": "IntegerLiteral",
       "offset": 275,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Properties.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Properties.swift",
       "kind": "IntegerLiteral",
       "offset": 329,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/igor\/Developer\/Work\/BuildSucceeded.io\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Properties.swift",
+      "filePath": "\/Users\/volodymyr\/Documents\/Projects\/SwiftTagLib\/XCFrameworkPackage\/Sources\/SwiftTagLib\/Properties.swift",
       "kind": "IntegerLiteral",
       "offset": 380,
       "length": 1,

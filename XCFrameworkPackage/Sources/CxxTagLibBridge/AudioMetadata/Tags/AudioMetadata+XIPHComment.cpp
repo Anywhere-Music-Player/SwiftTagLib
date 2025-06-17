@@ -108,7 +108,7 @@ AudioMetadata AudioMetadata::read_from_XiphComment(const TagLib::Ogg::XiphCommen
 
     for (auto iterator: tag->fieldListMap()) {
         auto key = iterator.first.toCString(true);
-        auto value = iterator.second.front().toCString();
+        auto value = iterator.second.front().toCString(true);
         bool hasHandledValue = false;
         auto lookupKey = std::string(key);
         std::transform(lookupKey.begin(), lookupKey.end(), lookupKey.begin(), ::toupper);

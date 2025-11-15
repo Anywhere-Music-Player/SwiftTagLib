@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
-// swift-module-flags: -target x86_64-apple-ios16.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name SwiftTagLib
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
+// swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
+// swift-module-flags: -target x86_64-apple-ios17.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name SwiftTagLib
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=swift-6 -interface-compiler-version 6.2.1
 import Foundation/*.Data*/
 import Foundation/*.FileHandle*/
 import Foundation/*.LocalizedError*/
@@ -62,7 +62,9 @@ extension SwiftTagLib.AudioFile.Metadata.AttachedPicture {
     public var description: Swift.String {
       get
     }
+    #if compiler(>=5.3) && $NonescapableTypes
     public init?(rawValue: Swift.UInt32)
+    #endif
     public typealias RawValue = Swift.UInt32
     public var rawValue: Swift.UInt32 {
       get
@@ -83,7 +85,9 @@ extension SwiftTagLib.AudioFile {
       case runtimeError
       case exception
       case unknown
+      #if compiler(>=5.3) && $NonescapableTypes
       public init?(rawValue: Swift.String)
+      #endif
       public typealias RawValue = Swift.String
       public var rawValue: Swift.String {
         get
@@ -98,9 +102,11 @@ extension SwiftTagLib.AudioFile {
     case invalidFile
     case exception(SwiftTagLib.AudioFile.CxxException)
     case unknown
+    #if compiler(>=5.3) && $NonescapableTypes
     public var errorDescription: Swift.String? {
       get
     }
+    #endif
   }
   public enum MetadataWritingError : Swift.Error, Foundation.LocalizedError {
     case unableToOpenFile
@@ -108,9 +114,11 @@ extension SwiftTagLib.AudioFile {
     case saveError
     case exception(SwiftTagLib.AudioFile.CxxException)
     case unknown
+    #if compiler(>=5.3) && $NonescapableTypes
     public var errorDescription: Swift.String? {
       get
     }
+    #endif
   }
 }
 extension SwiftTagLib.AudioFile {
@@ -187,7 +195,9 @@ extension SwiftTagLib.AudioFile.Metadata {
     public var description: Swift.String {
       get
     }
+    #if compiler(>=5.3) && $NonescapableTypes
     public init?(rawValue: Swift.UInt8)
+    #endif
     public typealias RawValue = Swift.UInt8
     public var rawValue: Swift.UInt8 {
       get

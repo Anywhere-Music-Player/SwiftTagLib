@@ -130,7 +130,7 @@ let package = Package(
         swiftTagLib,
         tests
     ],
-    cxxLanguageStandard: .cxx2b
+    cxxLanguageStandard: .cxx20
 )
 
 // MARK: - MetadataReader Executable

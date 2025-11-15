@@ -1,6 +1,5 @@
-
 VALIDATE_PRODUCT = YES
-SWIFT_OPTIMIZATION_LEVEL = -Owholemodule
+SWIFT_OPTIMIZATION_LEVEL = -O
 
 //Duplicates found:
 //Total duplicates: 1

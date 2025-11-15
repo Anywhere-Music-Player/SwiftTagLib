@@ -116,8 +116,8 @@ let tests = Target.testTarget(
 let package = Package(
     name: "SwiftTagLib",
     platforms: [
-        .iOS(.v16),
-        .macOS(.v13),
+        .iOS(.v17),
+        .macOS(.v14),
     ],
     products: [
         taglib.asLibrary,
